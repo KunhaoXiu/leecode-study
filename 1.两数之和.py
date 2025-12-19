@@ -60,3 +60,6 @@ if __name__ == "__main__":
     result3 = solution.twoSum(nums3, target3)
     print(f"nums: {nums3}, target: {target3}")
     print(f"结果: {result3}")  # 输出: [0, 1]
+
+
+# 这个题目主要考察的是哈希表, 
